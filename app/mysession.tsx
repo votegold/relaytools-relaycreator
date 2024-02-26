@@ -77,7 +77,7 @@ export default function ShowSession() {
                 </dialog>
             }
             <div className="flex-1">
-                <a href={rootDomain + "/"} className="btn btn-ghost normal-case text-xl">relay.tools</a>
+                <a href={rootDomain + "/"} className="btn btn-ghost normal-case text-xl">vote.gold</a>
             </div>
 
 
